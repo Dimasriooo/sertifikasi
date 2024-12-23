@@ -1,0 +1,23 @@
+/* src/components/HeroSection.css */
+.hero-section {
+    /* background: url('https://ld-contest-drafts.s3.amazonaws.com/large/491-2749.png') no-repeat center center/cover; */
+    background-color: rgb(136, 136, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero-section button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  

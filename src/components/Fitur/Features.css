@@ -1,0 +1,30 @@
+/* src/components/Features.css */
+.features {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .feature-card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+  }
+  
+  .feature-card h3 {
+    font-size: 1.5rem;
+  }
+  
+  .feature-card p {
+    color: #090909;
+  }
+  .feature-card h3 {
+    color: #090909;
+  }
+  
