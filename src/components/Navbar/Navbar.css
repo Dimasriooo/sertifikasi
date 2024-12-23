@@ -5,6 +5,7 @@
     padding: 1rem;
     background-color: #1702ff;
     color: white;
+    max-width: 1200px;
   }
   .nav-links {
     list-style-type: none;
